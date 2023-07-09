@@ -7,3 +7,6 @@ I did the following
 5. markdown '.md'
 6. pull
 7. git in vscode
+8. branches(adding,renamin,-d delete)
+9. pull request
+10. merge
