@@ -6,3 +6,4 @@ I did the following
 4. push, remote, branch
 5. markdown '.md'
 6. pull
+7. git in vscode
