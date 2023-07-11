@@ -9,4 +9,6 @@ I did the following
 7. git in vscode
 8. branches(adding,renamin,-d delete)
 9. pull request
-10. merge
+11. merge
+12. conflect
+13. rebase
