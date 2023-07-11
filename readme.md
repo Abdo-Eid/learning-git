@@ -12,3 +12,5 @@ I did the following
 11. merge
 12. conflect
 13. rebase
+14. squash
+15. git GUI/ git in vscode
